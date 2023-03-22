@@ -1,0 +1,22 @@
+{
+  "name": "semanatectc1002s",
+  "version": "1.0.0",
+  "description": "Semana Tec Herramientas Computacionales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanyGuti/SemanaTecTC1002S.git"
+  },
+  "keywords": [
+    "SemanaTec"
+  ],
+  "author": "Daniel Gutiérrez Gómez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanyGuti/SemanaTecTC1002S/issues"
+  },
+  "homepage": "https://github.com/DanyGuti/SemanaTecTC1002S#readme"
+}
